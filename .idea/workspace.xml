@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6034cc64-f39b-4313-a767-611a3a70f2ea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test_new_branch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_new_branch.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_new_branch.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
